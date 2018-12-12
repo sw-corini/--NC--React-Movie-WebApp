@@ -1,0 +1,13 @@
+{
+  "main.css": "/sw-corini/NC--React-Movie-WebApp/static/css/main.adf0b33d.chunk.css",
+  "main.js": "/sw-corini/NC--React-Movie-WebApp/static/js/main.23bffc5a.chunk.js",
+  "main.js.map": "/sw-corini/NC--React-Movie-WebApp/static/js/main.23bffc5a.chunk.js.map",
+  "static/js/1.c0a994b2.chunk.js": "/sw-corini/NC--React-Movie-WebApp/static/js/1.c0a994b2.chunk.js",
+  "static/js/1.c0a994b2.chunk.js.map": "/sw-corini/NC--React-Movie-WebApp/static/js/1.c0a994b2.chunk.js.map",
+  "runtime~main.js": "/sw-corini/NC--React-Movie-WebApp/static/js/runtime~main.96ed3476.js",
+  "runtime~main.js.map": "/sw-corini/NC--React-Movie-WebApp/static/js/runtime~main.96ed3476.js.map",
+  "static/css/main.adf0b33d.chunk.css.map": "/sw-corini/NC--React-Movie-WebApp/static/css/main.adf0b33d.chunk.css.map",
+  "index.html": "/sw-corini/NC--React-Movie-WebApp/index.html",
+  "precache-manifest.3dd4ccf50654ae635de37393d77807d6.js": "/sw-corini/NC--React-Movie-WebApp/precache-manifest.3dd4ccf50654ae635de37393d77807d6.js",
+  "service-worker.js": "/sw-corini/NC--React-Movie-WebApp/service-worker.js"
+}
